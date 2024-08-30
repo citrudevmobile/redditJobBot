@@ -1,2 +1,2 @@
 # RedditJobBot
-A scraper built in C# to find developer jobs on Reddit
+A scraper built with C# to find developer jobs on Reddit
